@@ -1,0 +1,47 @@
+body
+{
+	text-align: center;
+    
+}
+
+h3
+{
+    letter-spacing: 8px;
+    font-style: italic;
+}
+
+span
+{
+	font-size: 16px;
+    letter-spacing: 2px;
+    font-style: italic;
+	color: tomato;
+}
+canvas
+{
+	background-color: burlywood; 
+    border: 5px;
+    box-shadow: 5px 8px rgb(95, 94, 94);
+    border-radius: 15px;
+    
+}
+
+.background{
+    background: fixed;
+    background-size: cover;
+}
+#heading{
+    color: yellow;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0px;
+    color:black;
+    background-color: rgb(228, 245, 82);
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
